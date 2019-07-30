@@ -1,0 +1,6 @@
+HOW TO USE CMD EXCT:
+
+1. Open the program "Cmd Exct Register" and type a password to use.
+2. Open the program "Cmd Exct"
+3. Type "help" in the Cmd Exct to see all the commands you can do.
+4. Done!
